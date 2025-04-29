@@ -32,6 +32,8 @@ Clone the repository:
 
 bash
 git clone https://github.com/BakSlerz/Lumterminal
+
 cd lum-terminal
+
 ./install.sh
 
