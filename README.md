@@ -24,6 +24,8 @@ Simple and clean interface, ideal for integration into custom desktop environmen
 
 * sudo pacman -S base-devel gtk3 vte3 pango
 
+# Other distro
+
 For other distributions, use the appropriate package manager to install gtk3, vte3, and pango.
 
 # Building
