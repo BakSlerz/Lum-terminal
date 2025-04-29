@@ -11,22 +11,19 @@ Shell spawning support (default to /bin/bash or the user's shell).
 Simple and clean interface, ideal for integration into custom desktop environments.
 
 Dependencies
-To build and run Lum Terminal, you will need to have the following libraries and tools installed:
+GTK+3
+VTE
+Pango
 
-GTK+ 3 - For building the user interface.
+On Ubuntu/Debian-based 
 
-VTE - Terminal widget for handling terminal emulation.
-
-Pango - For handling text rendering and fonts.
-
-On Ubuntu/Debian-based systems, you can install these dependencies by running:
-bash
 sudo apt update
 sudo apt install build-essential libgtk-3-dev libvte-2.91-dev libpango1.0-dev
-On Arch Linux-based systems, use the following:
-bash
+
+Arch/Arch based
 
 sudo pacman -S base-devel gtk3 vte3 pango
+
 For other distributions, use the appropriate package manager to install gtk3, vte3, and pango.
 Building
 To compile and run Lum Terminal, follow these steps:
