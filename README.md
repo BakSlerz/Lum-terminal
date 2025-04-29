@@ -10,25 +10,22 @@ Shell spawning support (default to /bin/bash or the user's shell).
 
 Simple and clean interface, ideal for integration into custom desktop environments.
 
-Dependencies
-GTK+3
-VTE
-Pango
+# Dependencies
+* GTK+3
+* VTE
+* Pango
 
-On Ubuntu/Debian-based 
+# Ubuntu/Debian-based 
 
-sudo apt update
-sudo apt install build-essential libgtk-3-dev libvte-2.91-dev libpango1.0-dev
+* sudo apt update
+* sudo apt install build-essential libgtk-3-dev libvte-2.91-dev libpango1.0-dev
 
-Arch/Arch based
+# Arch/Arch based
 
-sudo pacman -S base-devel gtk3 vte3 pango
+* sudo pacman -S base-devel gtk3 vte3 pango
 
 For other distributions, use the appropriate package manager to install gtk3, vte3, and pango.
-Building
-To compile and run Lum Terminal, follow these steps:
-
-Clone the repository:
+# Building
 
 bash
 git clone https://github.com/BakSlerz/Lumterminal
