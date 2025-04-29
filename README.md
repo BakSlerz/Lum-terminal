@@ -1,14 +1,13 @@
 # Lum Terminal
-Lum Terminal is a lightweight, custom terminal emulator built using GTK and VTE, designed to be a part of the Lum graphical environment. It offers a simple user interface, basic terminal functionality, and support for right-click context menus with copy and paste options.
+* Lum Terminal is a lightweight, custom terminal emulator built using GTK and VTE, designed to be a part of the Lum graphical environment. It offers a simple user interface, basic terminal functionality, and support for right-click context menus with copy and paste options.
 
-Features
-Customizable font and color scheme.
+# Features
 
-Right-click context menu with copy and paste functionality.
+* Right-click context menu with copy and paste functionality.
 
-Shell spawning support (default to /bin/bash or the user's shell).
+* Shell spawning support (default to /bin/bash or the user's shell).
 
-Simple and clean interface, ideal for integration into custom desktop environments.
+* Simple and clean interface, ideal for integration into custom desktop environments.
 
 # Dependencies
 * GTK+3
