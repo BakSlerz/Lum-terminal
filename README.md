@@ -1,4 +1,4 @@
-Lum Terminal
+# Lum Terminal
 Lum Terminal is a lightweight, custom terminal emulator built using GTK and VTE, designed to be a part of the Lum graphical environment. It offers a simple user interface, basic terminal functionality, and support for right-click context menus with copy and paste options.
 
 Features
@@ -25,9 +25,9 @@ Simple and clean interface, ideal for integration into custom desktop environmen
 * sudo pacman -S base-devel gtk3 vte3 pango
 
 For other distributions, use the appropriate package manager to install gtk3, vte3, and pango.
+
 # Building
 
-bash
 git clone https://github.com/BakSlerz/Lumterminal
 
 cd lum-terminal
