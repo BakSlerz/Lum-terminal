@@ -31,7 +31,7 @@ To compile and run Lum Terminal, follow these steps:
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/lum-terminal.git
+git clone https://github.com/BakSlerz/Lumterminal
 cd lum-terminal
 ./install.sh
 
