@@ -19,9 +19,9 @@
 sudo apt update
 sudo apt install build-essential libgtk-3-dev libvte-2.91-dev libpango1.0-dev
 
-# Arch/Arch based:
+* Arch/Arch based:
 
-- sudo pacman -S base-devel gtk3 vte3 pango
+sudo pacman -S base-devel gtk3 vte3 pango
 
 # Other distro
 
