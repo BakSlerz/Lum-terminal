@@ -15,7 +15,7 @@
 * Pango
 
 # Ubuntu/Debian-based 
-bash
+
 sudo apt update
 sudo apt install build-essential libgtk-3-dev libvte-2.91-dev libpango1.0-dev
 
@@ -32,6 +32,8 @@ For other distributions, use the appropriate package manager to install gtk3, vt
 git clone https://github.com/BakSlerz/Lumterminal
 
 cd lum-terminal
+
+make
 
 ./install.sh
 
